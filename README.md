@@ -1,4 +1,4 @@
-# Budget Blue Haven - Personal Finance Tracker
+# Personal Finance Tracker
 
 ## Project info
 
